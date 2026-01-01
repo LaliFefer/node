@@ -1,6 +1,10 @@
 const express = require('express');
 const app = express();
 app.use(express.json());
+const logger = require('./middlewares/logger');
+
+// Global logging middleware: logs each incoming request with timestamp
+app.use(logger);
 
 // לשירות קבצים סטטיים (index.html + styles.css)
 // הוספת public כספריית סטטיק מאפשרת פתיחה מהדפדפן בכתובת http://localhost:3000/

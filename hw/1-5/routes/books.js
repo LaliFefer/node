@@ -1,6 +1,10 @@
 const express = require('express');
 const router = express.Router();
 const ctrl = require('../controllers/booksController');
+const security = require('../middlewares/security');
+
+// Apply security middleware to this controller's routes only
+router.use(security);
 
 // Routes עבור ישות 'books'
 // כל route מפנה לפונקציה מתאימה בקונטרולר.
