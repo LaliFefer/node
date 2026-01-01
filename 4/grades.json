@@ -1,0 +1,57 @@
+[
+    {
+        "studentId": 1,
+        "subjectId": 1,
+        "grade": 85
+    },
+    {
+        "studentId": 1,
+        "subjectId": 2,
+        "grade": 92
+    },
+    {
+        "studentId": 1,
+        "subjectId": 3,
+        "grade": 78
+    },
+    {
+        "studentId": 2,
+        "subjectId": 1,
+        "grade": 90
+    },
+    {
+        "studentId": 2,
+        "subjectId": 2,
+        "grade": 88
+    },
+    {
+        "studentId": 3,
+        "subjectId": 1,
+        "grade": 95
+    },
+    {
+        "studentId": 3,
+        "subjectId": 3,
+        "grade": 82
+    },
+    {
+        "studentId": 4,
+        "subjectId": 2,
+        "grade": 87
+    },
+    {
+        "studentId": 4,
+        "subjectId": 4,
+        "grade": 94
+    },
+    {
+        "studentId": 5,
+        "subjectId": 1,
+        "grade": 88
+    },
+    {
+        "studentId": 5,
+        "subjectId": 5,
+        "grade": 91
+    }
+]

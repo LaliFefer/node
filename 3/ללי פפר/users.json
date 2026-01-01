@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Lali",
+        "active": true
+    },
+    {
+        "name": "Zehavi",
+        "active": false
+    },
+    {
+        "name": "Chavi",
+        "active": true
+    },
+    {
+        "name": "Chani",
+        "active": false
+    },
+    {
+        "name": "Ayala",
+        "active": true
+    },
+    {
+        "name": "Miri",
+        "active": false
+    },
+    {
+        "name": "Shani",
+        "active": false
+    },
+    {
+        "name": "Noa",
+        "active": true
+    },
+    {
+        "name": "Ayelet",
+        "active": false
+    }
+    ,
+    {
+        "name": "Tamar",
+        "active": false
+    },
+    {
+        "name": "Riki",
+        "active": true
+    },
+    {
+        "name": "Yael",
+        "active": false
+    },
+    {
+        "name": "Pnina",
+        "active": false
+    },
+    {
+        "name": "Hila",
+        "active": true
+    },
+    {
+        "name": "Chana",
+        "active": false
+    }
+]
+
+

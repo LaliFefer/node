@@ -1,0 +1,35 @@
+[
+    {
+        "studentId":"111",
+        "professionId":"pro1",
+        "grade":100
+    },{
+        "studentId":"222",
+        "professionId":"pro3",
+        "grade":94
+    },{
+        "studentId":"333",
+        "professionId":"pro3",
+        "grade":100
+    },{
+        "studentId":"111",
+        "professionId":"pro1",
+        "grade":87
+    },{
+        "studentId":"444",
+        "professionId":"pro2",
+        "grade":98
+    },{
+        "studentId":"555",
+        "professionId":"pro1",
+        "grade":100
+    },{
+        "studentId":"666",
+        "professionId":"pro2",
+        "grade":90
+    },{
+        "studentId":"222",
+        "professionId":"pro3",
+        "grade":100
+    }
+]

@@ -1,0 +1,23 @@
+[{
+        "idStudent": 1,
+        "idSubject": 2,
+        "grade": 90
+    },
+    {
+        "idStudent": 2,
+        "idSubject": 3,
+        "grade": 100
+    },
+    {
+        "idStudent": 2,
+        "idSubject": 2,
+        "grade": 93
+    },
+    {
+        "idStudent": 1,
+        "idSubject": 3,
+        "grade": 92
+    }
+
+
+]

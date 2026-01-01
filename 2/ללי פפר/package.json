@@ -1,0 +1,7 @@
+{
+    "name": "hiking-sites",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Hiking sites management system",
+    "main": "main.js"
+}

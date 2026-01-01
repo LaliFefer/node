@@ -1,0 +1,32 @@
+[
+    {
+        "studentName": "user1",
+        "studentId": "111",
+        "studentClass": "A"
+    },
+    {
+        "studentName": "user2",
+        "studentId": "222",
+        "studentClass": "C"
+    },
+    {
+        "studentName": "user3",
+        "studentId": "333",
+        "studentClass": "A"
+    },
+    {
+        "studentName": "user4",
+        "studentId": "444",
+        "studentClass": "B"
+    },
+    {
+        "studentName": "user5",
+        "studentId": "555",
+        "studentClass": "A"
+    },
+    {
+        "studentName": "user6",
+        "studentId": "666",
+        "studentClass": "C"
+    }
+]

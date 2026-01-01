@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "דוד כהן",
+    "email": "david.cohen@email.com",
+    "phone": "052-1234567",
+    "joinDate": "2023-01-15",
+    "borrowedBooks": [1, 3]
+  },
+  {
+    "id": 2,
+    "name": "שרה לוי",
+    "email": "sarah.levi@email.com",
+    "phone": "054-9876543",
+    "joinDate": "2023-03-22",
+    "borrowedBooks": [2, 4]
+  },
+  {
+    "id": 3,
+    "name": "ישראל ברק",
+    "email": "israel.barak@email.com",
+    "phone": "051-5555555",
+    "joinDate": "2023-05-10",
+    "borrowedBooks": [5]
+  },
+  {
+    "id": 4,
+    "name": "מירה גולדמן",
+    "email": "mira.goldman@email.com",
+    "phone": "053-3333333",
+    "joinDate": "2023-07-08",
+    "borrowedBooks": []
+  },
+  {
+    "id": 5,
+    "name": "אהרון שמואלי",
+    "email": "aharon.shmuli@email.com",
+    "phone": "052-7777777",
+    "joinDate": "2023-09-20",
+    "borrowedBooks": [1, 2, 3]
+  }
+]
